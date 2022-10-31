@@ -21,5 +21,3 @@ during your pool, the week will be divided into three parts;
 
 ## 1337 SCHOOL: 
     link: https://www.1337.ma/en/
-
-<p align="left"> <a href="https://twitter.com/@darknig42667951" target="blank"><img src="https://img.shields.io/twitter/follow/@darknig42667951?logo=twitter&style=for-the-badge" alt="@darknig42667951" /></a> </p>
