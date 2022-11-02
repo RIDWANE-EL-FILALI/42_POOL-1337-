@@ -1,7 +1,6 @@
+<p align="center">
 <img src="1337_POOL_42.png" align="center"/>
-
-
-<h1 align="center">1337 POOL</h1>
+</p>
 
 <P align="center"> a month-long of socializing and working with your peers, where you'll discover your abilities. 
 
