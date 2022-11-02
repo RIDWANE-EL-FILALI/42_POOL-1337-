@@ -1,4 +1,4 @@
-<img src="1337_POOL_42.png"/>
+<img src="1337_POOL_42.png" align="center"/>
 
 
 <h1 align="center">1337 POOL</h1>
