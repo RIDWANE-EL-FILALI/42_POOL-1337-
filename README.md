@@ -19,4 +19,4 @@ during your pool, the week will be divided into three parts;
 1337 strives to produce men (women) who are capable of handling any task at hand.
 
 ## 1337 SCHOOL: 
-    link: https://www.1337.ma/en/
+https://www.1337.ma/en/
